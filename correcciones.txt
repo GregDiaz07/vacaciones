@@ -1,0 +1,46 @@
+
+
+
+_total por _saldo_total
+
+CANT_OBL_LEASING por cant_obl_leas
+
+CANT_OBL_COM_+_LEASING por obl
+
+Finandina por BANCO_FINANDINA
+
+bancoldex por leasing_bancoldex
+
+banco_agrario por banagrario
+
+BANCO_ITAU por itau
+
+BANCO_MUNDO_MUJER_SA por mundo_mujer
+
+dann por dann_regional
+
+banco_serfinanza por serfinanza
+
+BANCO_DE_BOGOTA por de_bogota
+
+PICHINCHA por BANCO_PICHINCHA
+
+DAVIVIENDA_SA por DAVIVIENDA
+
+BBVA_COLOMBIA por bbva
+
+SCOTIABANK_COLPATRIA_SA por scotiabank_colpatria
+
+BANCO_AV_VILLAS por av_villas
+
+BANCO_SANTANDER por santander
+
+FINANCIERA_JURISCOOP por fin_juriscoop
+
+BANCOOMEVA_SA por BANCOOMEVA
+
+BANCO_POPULAR por popular
+
+SISTEMA por sistema_bancario
+
+
